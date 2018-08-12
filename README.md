@@ -6,3 +6,4 @@ Leo
 Joko
 hino
 ellej
+koi
