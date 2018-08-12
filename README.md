@@ -9,3 +9,5 @@ ricky
 Alfian
 joki
 lala
+ellej
+koi
